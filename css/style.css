@@ -1,0 +1,48 @@
+body{
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+h1{
+  font-family: 'Courgette', cursive;
+  text-align: center;
+  color: #8E3557;
+}
+h2{
+    color: #E82759;
+}
+hr{
+  border-color: #8E3557;
+  border-style: solid;
+}
+.col-md-4.profil{
+    border-right: 2px solid #8E3557;
+}
+
+.col-md-1{
+  color: #8E3557;
+}
+
+.social{
+  color: #8E3557;
+
+}
+
+h3{
+
+  color: #E82759;
+}
+
+h4{
+  color: #69003F;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.row.coordonnees {
+    margin-top: 10px;
+}
+
+em {
+    color: #E82759;
+}
